@@ -4,12 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="0581c860-de9e-485a-a553-88ce1595ec65" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/resources/com/billsfx/billsfx/menu.fxml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/billsfx/billsfx/HelloApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/billsfx/billsfx/HelloApplication.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/com/billsfx/billsfx/hello-view.fxml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/com/billsfx/billsfx/login.fxml" afterDir="false" />
-    </list>
+    <list default="true" id="0581c860-de9e-485a-a553-88ce1595ec65" name="Changes" comment="Actu" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -81,8 +76,17 @@
       <workItem from="1709488186919" duration="121000" />
       <workItem from="1709488322753" duration="674000" />
       <workItem from="1709663964843" duration="566000" />
-      <workItem from="1709664571262" duration="4011000" />
+      <workItem from="1709664571262" duration="4859000" />
     </task>
+    <task id="LOCAL-00001" summary="Actu">
+      <option name="closed" value="true" />
+      <created>1709755658536</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1709755658536</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -98,5 +102,9 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Actu" />
+    <option name="LAST_COMMIT_MESSAGE" value="Actu" />
   </component>
 </project>
